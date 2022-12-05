@@ -1,0 +1,52 @@
+{  
+   "singers":[  
+      {  
+         "name":"The Weekend",
+         "songName":"False Alarm",
+         "count":123,
+         "listeners": 14444444
+      },
+      {  
+         "name":"21 Savage",
+         "songName":"EA",
+         "count":1,
+         "listeners": 62112
+      },
+      {  
+         "name":"SALUKI",
+         "songName":"777",
+         "count":65,
+         "listeners": 423
+      },
+      {  
+         "name":"Nigth Lovell",
+         "songName":"Dark Light",
+         "count":214,
+         "listeners": 1231324
+      },
+      {  
+         "name":"Ghostemane",
+         "songName":"Mercury",
+         "count":144,
+         "listeners": 124125512
+      },
+      {  
+         "name":"Bones",
+         "songName":"RestInPeace",
+         "count":5,
+         "listeners": 5125125
+      },
+      {  
+         "name":"Childish Gambino",
+         "songName":"This is America",
+         "count":1,
+         "listeners":125125
+      },
+      {  
+         "name":"$uicideboy$",
+         "songName":"Ugly",
+         "count":2221,
+         "listeners": 5215125
+      }
+   ]
+}
